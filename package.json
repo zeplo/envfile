@@ -1,5 +1,5 @@
 {
-  "name": "envfile",
+  "name": "@zeplo/envfile",
   "version": "3.0.0",
   "description": "Parse and stringify the environment configuration files and format, also known as .env files and dotenv files",
   "homepage": "https://github.com/bevry/envfile",
